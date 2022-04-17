@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WindowsFormsApp1/1.0.0": {
+        "dependencies": {
+          "Memory.dll.x86": "1.2.23"
+        },
+        "runtime": {
+          "WindowsFormsApp1.dll": {}
+        }
+      },
+      "Memory.dll.x86/1.2.23": {
+        "runtime": {
+          "lib/netstandard2.0/Memory.dll": {
+            "assemblyVersion": "1.2.23.0",
+            "fileVersion": "1.2.23.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowsFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Memory.dll.x86/1.2.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NQmiXYPOhPY2WFd3tPS1WlsfvVVxCHGIlv2IcQz0XbKhmqIddvwZ3V5rYbNuEWTNUpD94co+RG5d29QQbgHMYg==",
+      "path": "memory.dll.x86/1.2.23",
+      "hashPath": "memory.dll.x86.1.2.23.nupkg.sha512"
+    }
+  }
+}

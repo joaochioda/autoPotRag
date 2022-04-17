@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/6xeZ3wYzxQF8Bn7npIE8JNDYoQh7KlApdeuOB57LEDd+3yHRWQbCZuamR4VfmRmtAw8hIDbzTDJniQ6pu0hNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaob\\source\\repos\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaob\\.nuget\\packages\\memory.dll.x86\\1.2.23\\memory.dll.x86.1.2.23.nupkg.sha512"
+  ],
+  "logs": []
+}
