@@ -14,3 +14,4 @@ C:\Users\joaob\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcorea
 C:\Users\joaob\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.dll
 C:\Users\joaob\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.pdb
 C:\Users\joaob\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.genruntimeconfig.cache
+C:\Users\joaob\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.csprojAssemblyReference.cache

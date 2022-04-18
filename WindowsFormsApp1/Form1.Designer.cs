@@ -30,6 +30,7 @@ namespace WindowsFormsApp1
         private void InitializeComponent()
         {
             this.checkbox1 = new System.Windows.Forms.CheckBox();
+            this.checkBox2 = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // checkbox1
@@ -42,11 +43,23 @@ namespace WindowsFormsApp1
             this.checkbox1.Text = "active";
             this.checkbox1.UseVisualStyleBackColor = true;
             // 
+            // checkBox2
+            // 
+            this.checkBox2.AutoSize = true;
+            this.checkBox2.Location = new System.Drawing.Point(59, 86);
+            this.checkBox2.Name = "checkBox2";
+            this.checkBox2.Size = new System.Drawing.Size(56, 19);
+            this.checkBox2.TabIndex = 1;
+            this.checkBox2.Text = "move";
+            this.checkBox2.UseVisualStyleBackColor = true;
+            this.checkBox2.CheckedChanged += new System.EventHandler(this.checkBox2_CheckedChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(218, 126);
+            this.ClientSize = new System.Drawing.Size(254, 146);
+            this.Controls.Add(this.checkBox2);
             this.Controls.Add(this.checkbox1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -59,6 +72,7 @@ namespace WindowsFormsApp1
         #endregion
 
         private System.Windows.Forms.CheckBox checkbox1;
+        private System.Windows.Forms.CheckBox checkBox2;
     }
 }
 
